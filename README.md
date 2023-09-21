@@ -6,4 +6,4 @@ This is my test link to my Github profile [Westley Foster Github Profile](https:
 ## Some jokes for the reader:
 
 How come the fungus couldn't fit into the car? There wasn't *mushroom* left! 
-![Laughing meme](/Pictures/laugh_meme.jpg)
+![Laughing meme](laugh_meme.jpg)
