@@ -6,4 +6,6 @@ This is my test link to my Github profile [Westley Foster Github Profile](https:
 ## Some jokes for the reader:
 
 How come the fungus couldn't fit into the car? There wasn't *mushroom* left! 
-![Laughing meme](laugh_meme.jpg)
+Not good enough? How about:
+I heard that the rock and the boulder are pretty *down to Earth* with each other. 
+*Cricket noises*
